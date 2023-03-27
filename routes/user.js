@@ -48,6 +48,8 @@ router.post("/api/signup", async (req, res) => {
 
 
 
+
+
 // LOGIN FUNCTINALITY
 router.post("/api/login", async (req, res) => {
 
@@ -89,6 +91,8 @@ router.post("/api/login", async (req, res) => {
     })
 
 })
+
+
 
 
 
